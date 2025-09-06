@@ -1,0 +1,9 @@
+{
+    "api_token": "xyz",
+    "zone_id": "xyz",
+    "record_name": "domain.com",
+    "record_type": "A",
+    "proxy": true,
+    "check_ip_min":"5"
+
+}
