@@ -3,9 +3,6 @@
 A lightweight **Dynamic DNS updater** written in C++ for Cloudflare.  
 It fetches your current public IP address and automatically updates a DNS record via the Cloudflare API.  
 
-✅ Works reliably on **Linux**  
-⚠️ Windows support is **experimental**
-
 ---
 
 ## ✨ Features
