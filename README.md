@@ -17,13 +17,9 @@ It fetches your current public IP address and automatically updates a DNS record
 
 ## 🛠️ Build Instructions
 
-### Linux (tested on Ubuntu 22.04)
+### Linux
 
 ```bash
-# Install dependencies
-sudo apt install g++ cmake libcurl4-openssl-dev libjsoncpp-dev
-
-# Clone and build
 git clone https://github.com/beni13312/cloudflare_dns_updater.git
 cd cflare-ddns
 mkdir build && cd build
